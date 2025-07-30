@@ -18,7 +18,7 @@
 
 ## 📸 Screenshots
 
-![App Screenshot](./image.jpg)
+![App Screenshot](./image2.jpg)
 
 
 
